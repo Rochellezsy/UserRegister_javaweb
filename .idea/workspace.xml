@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a5a92a7-c9fb-4599-9c3e-84280b8e6d23" name="Default Changelist" comment="" />
+    <list default="true" id="2a5a92a7-c9fb-4599-9c3e-84280b8e6d23" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/需求及分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/需求及分析.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -43,6 +48,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1U9SvNTYOTpclOU9OHcZt5uyOf9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -210,11 +216,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574767547273</updated>
-      <workItem from="1574767548598" duration="5753000" />
+      <workItem from="1574767548598" duration="6424000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
